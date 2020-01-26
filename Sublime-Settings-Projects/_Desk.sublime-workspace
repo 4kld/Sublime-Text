@@ -1,0 +1,978 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"n"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"SYNGFM",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"toc",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sync",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"color pic",
+				"Color Picker"
+			],
+			[
+				"color pick",
+				"Color Picker"
+			],
+			[
+				"ui theme",
+				"UI: Select Theme"
+			],
+			[
+				"theme",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"color ",
+				"Color Picker"
+			],
+			[
+				"date",
+				"Format Date"
+			],
+			[
+				"spaces",
+				"String Utilities: Convert Spaces to Tabs"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"fount",
+				"Set Syntax: Fountainhead"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme mark",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"color pi",
+				"Color Picker"
+			],
+			[
+				"css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"synt mult",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"markdown them",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"tasks",
+				"Set Syntax: Tasks"
+			],
+			[
+				"file",
+				"File: Locate"
+			],
+			[
+				"colro p",
+				"Color Picker"
+			],
+			[
+				"synt les",
+				"Set Syntax: Less"
+			],
+			[
+				"synt le",
+				"Set Syntax: Less"
+			],
+			[
+				"mmd",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"sync scr",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"SYNC",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"SYNC ",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"html2",
+				"HTML2Text: Convert clipboard content"
+			],
+			[
+				"html",
+				"HTML2Text: Convert clipboard content"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"fou",
+				"Set Syntax: Fountainhead"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"sysn gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"u",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"synt",
+				"Set Syntax: Fountainhead"
+			],
+			[
+				"fil",
+				"Filter Lines: Include Lines With String"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"filter",
+				"Filter Lines: Include Lines With Regex"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"CASE",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"plan",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"string end",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"string",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"synt fount",
+				"Set Syntax: Fountainhead"
+			],
+			[
+				"mark theme",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"mark",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"markdo",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"markdown theme",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"synt mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"synt fo",
+				"Set Syntax: Fountainhead"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"markdo theme",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"head",
+				"Snippet: Markdown Header 3"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"COLOR",
+				"Color Picker"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"h",
+				"HTML2Text: Convert selection"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"theme ",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"html syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"regexs",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"markdown table",
+				"DataConverter: to Markdown (Github-flavored)"
+			],
+			[
+				"them",
+				"UI: Select Color Scheme"
+			],
+			[
+				"settings m",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"omm",
+				"Toggle Comment"
+			],
+			[
+				"git",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"space",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"fomr",
+				"Format Date"
+			],
+			[
+				"time",
+				"InsertDate: Select Timezone"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"gf",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"locate",
+				"File: Locate"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"trim",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"smart",
+				"Trimmer: Replace smart characters."
+			],
+			[
+				"trail",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"tr",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"smar",
+				"Trimmer: Replace smart characters."
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"marked",
+				"Build With: Marked 2"
+			],
+			[
+				"readm",
+				"InsertDate: Open README"
+			],
+			[
+				"DATE",
+				"Format Date"
+			],
+			[
+				"read me",
+				"ReadmePlease"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"colorhigh",
+				"Color Highlight: Reset"
+			],
+			[
+				"sma",
+				"Trimmer: Replace smart characters."
+			],
+			[
+				"reg",
+				"RegReplace: Settings"
+			],
+			[
+				"notes",
+				"Fountainhead: Show/Hide Notes"
+			],
+			[
+				"chara",
+				"Fountainhead: Show Character List"
+			],
+			[
+				"white",
+				"Trimmer: Trim leading AND trailing whitespace."
+			],
+			[
+				"normal",
+				"Trimmer: Normalize spaces."
+			],
+			[
+				"replace smart",
+				"Trimmer: Replace smart characters."
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"unwr",
+				"String Utilities: Expand Selection to Whole String"
+			],
+			[
+				"high",
+				"Color Highlight: Disable Color Highlighting"
+			],
+			[
+				"tog",
+				"Word Wrap: Toggle"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"TITLE",
+				"Convert Case: Title Case"
+			],
+			[
+				"CHAR",
+				"Fountainhead: Show Character List"
+			],
+			[
+				"type",
+				"Typewriter: Scrolling Mode (Toggle)"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/keith.davis/Desktop/scratch.md",
+		"/Users/keith.davis/Library/Containers/com.ulyssesapp.mac/Data/Library/Application Support/Ulysses/Style Editing/40ab9347cb1f45488a576bcf793b475c/Voodoo (copy).css",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/mweb-clearness.css",
+		"/Users/keith.davis/Dropbox (Personal)/Notes/Sublime Text 2.md",
+		"/Users/keith.davis/Desktop/workflowy-export.txt",
+		"/Users/keith.davis/Dropbox (Personal)/Notes/Gmail - Keyboard Shortcuts.md",
+		"/Users/keith.davis/Documents/Cheaters/cheat.html",
+		"/Users/keith.davis/Documents/Cheaters/cheatsheets/slidepad.md",
+		"/Users/keith.davis/Documents/Cheaters/cheatsheets/Slidepad Shortcuts",
+		"/Users/keith.davis/Documents/Cheaters/cheatsheets/outlinely.md",
+		"/Users/keith.davis/Documents/Cheaters/cheatsheets/notion.md",
+		"/Users/keith.davis/Dropbox (Personal)/Personal/My Clothes Sizes.md",
+		"/Users/keith.davis/Desktop/tools-workflow-download.txt",
+		"/Users/keith.davis/Dropbox (Personal)/Dropbox Downloads/BrettsPopclipExtensions1.25/README.md",
+		"/Users/keith.davis/Documents/Sublime-Projects/Cheaters.sublime-project",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts_TAP/00-Current Draft/tap-5-160504.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts_TAP/00-Current Draft/tap-6-140510.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts_TAP/00-Current Draft/tap-6-171229-final-draft.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts_TAP/00-Current Draft/tap-6-191123.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts_TAP/00-Current Draft/tap-4-130930.fountain",
+		"/Users/keith.davis/Desktop/Keith Davis.md",
+		"/Users/keith.davis/Documents/cheaters/cheat.html",
+		"/Users/keith.davis/Dropbox (Personal)/Notes/AlfredWorkflows.md",
+		"/Users/keith.davis/Library/Application Support/DEVONthink 3/Websites/Header+URL+Comment.html",
+		"/Users/keith.davis/Desktop/shortcuts quick export/2nd-test/Shortcuts/Taskpaper Keyboard Shortcuts.html",
+		"/Users/keith.davis/Desktop/shortcuts quick export/website.css",
+		"/Users/keith.davis/Library/Containers/com.coderforart.MWeb3/Data/Documents/themes/SiteThemes/site-mweb-simple copy/header.html",
+		"/Users/keith.davis/Desktop/Shortcuts/index.html",
+		"/Users/keith.davis/Library/Application Support/DEVONthink 3/Websites/Default.html",
+		"/private/var/folders/tv/n4cq52q13k73nkx0gx2fkpgh0000gn/T/com.agilebits.onepassword7/com.agilebits.Attachments.noindex/htwxorqrxrey5jpaqlbapnraci/paddle-receipt-518348.txt",
+		"/private/var/folders/tv/n4cq52q13k73nkx0gx2fkpgh0000gn/T/com.agilebits.onepassword7/com.agilebits.Attachments.noindex/jonboxzrh5dktlhvhxgxtweoku/receipt-payment-paddle.txt",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/c/Final Scene.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/b/S8-S4 Abby Says Goodbye.md",
+		"/Users/keith.davis/Databases/Workflow.dtBase2/Files.noindex/md/b/Fountain Syntax.md",
+		"/Users/keith.davis/Databases/Jrnl.dtBase2/Files.noindex/txt/d/2014-09-27 at 21-40-15 2.txt",
+		"/Users/keith.davis/Databases/WWE.dtBase2/Files.noindex/md/9/R-Truth’s Dad.md",
+		"/Users/keith.davis/Databases/WWE.dtBase2/Files.noindex/md/5/Kofi Kingston Interview.md",
+		"/Users/keith.davis/Databases/WWE.dtBase2/Files.noindex/md/4/Jeff Jarrett Interview.md",
+		"/Users/keith.davis/Databases/WWE.dtBase2/Files.noindex/md/0/Coach Tom Knotts Interview.md",
+		"/Users/keith.davis/Databases/WWE.dtBase2/Files.noindex/md/3/Jackie Crockett Interview.md",
+		"/Users/keith.davis/Databases/WWE.dtBase2/Files.noindex/md/4/R-Truth Breakdown.md",
+		"/Users/keith.davis/Databases/WWE.dtBase2/Files.noindex/md/a/AJ Styles Interview.md",
+		"/Users/keith.davis/Databases/WWE.dtBase2/Files.noindex/md/9/Carmella Interview.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/fountain/d/yesterday a king-05226-08.fountain",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/fountain/2/happy-yesterday a king.fountain",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/fountain/7/yesterday a king-070208-thesis read.fountain",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/fountain/0/yesterday a king.fountain",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/fountain/c/yesterday a king-061130.fountain",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/fountain/e/yesterday a king-061127.fountain",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/fountain/4/yesterday a king 2-2.fountain",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/fountain/b/the-american-people.fountain",
+		"/Users/keith.davis/Desktop/00-TAP-Related-Scripts/for spacious skies_1.8.07.rtf-1.txt",
+		"/Users/keith.davis/Desktop/00-TAP-Related-Scripts/thesis read.fountain.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/fountain/6/tap-1-090328-sundance-draft.fountain",
+		"/Users/keith.davis/Databases/Screenwriting.dtBase2/Files.noindex/md/2/Act Two Notes.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/b/The American Negro and the Image of the Absurd.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/fountain/4/tap-0-070314.fountain",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/fountain/d/tap-0-070305.fountain",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/0/TAP Index.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/d/Beyond Separation - Archetypes (Father).md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/8/Dramatic Questions Stemming From Premise.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/c/Premise.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/9/Premise-1.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/8/Premise-4.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/0/What the Story is About.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/1/tap_character_notes-Interview-with-mama.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/e/tap-130309-script-notes-old-mama-phone-archive.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/d/Notes from Mama.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/c/Notes from Mama-Feb.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/0/tap-130523-script-notes-ext-words-from-mama-archive.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/a/The Last Mother's Day.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/c/Kevins Essay On Rudys Death.Md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/c/9_kevins_story_on_rudy.md",
+		"/Users/keith.davis/Library/Containers/com.coderforart.MWeb3/Data/Documents/themes/PreviewCSS/my-mweb-clearness.css",
+		"/Users/keith.davis/Library/Containers/com.coderforart.MWeb3/Data/Documents/themes/PreviewCSS/my-new-mweb-clearness.css",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/Amelia.css",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/caret-Default.css",
+		"/Applications/MWeb.app/Contents/Resources/PreviewAsset/previewCSS/mweb-clearness.css",
+		"/Users/keith.davis/Desktop/WWE24RTruRTruIntvCamA.md",
+		"/Users/keith.davis/Desktop/WWE24RTruStudioCamB.md",
+		"/Users/keith.davis/Desktop/RTruth_Rundown2019v2.md",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/keith.davis/Library/Containers/com.coderforart.MWeb3/Data/Documents/themes/PreviewCSS/mweb-clearness.css",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/8/191124-Notes.md",
+		"/Users/keith.davis/Desktop/Abby-2e054aca-6af0-4b01-bb2b-09af5aeb47cd.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/6/The law of conservation of energy, first formulated in the nineteenth century, is a law of.md",
+		"/Users/keith.davis/Databases/TAP.dtBase2/Files.noindex/md/c/You Must Decide Who You Are-3.md",
+		"/Users/keith.davis/Databases/Betty.dtBase2/Files.noindex/txt/5/2014-09-27 at 21-40-15 13.txt",
+		"/Users/keith.davis/Databases/Betty.dtBase2/Files.noindex/md/8/Neecy & Tree.md",
+		"/Users/keith.davis/Databases/Betty.dtBase2/Files.noindex/md/c/Transitions.md",
+		"/Users/keith.davis/Desktop/2016-11-24 at 1326.txt",
+		"/Users/keith.davis/Desktop/2016-11-24 at 1326",
+		"/Users/keith.davis/Desktop/xJournal.txt",
+		"/Users/keith.davis/Desktop/Import-into-Day-One.txt",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/User/Date Formatter.sublime-settings",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/Date Formatter/Date Formatter.sublime-settings",
+		"/Users/keith.davis/Dropbox (Personal)/_Scripts/TAP/tap-text-outline-export.txt",
+		"/Applications/Highland 2.app/Contents/Library/QuickLook/MarkdownQuickLookPlugin.qlgenerator/Contents/MacOS/MarkdownQuickLookPlugin",
+		"/Users/keith.davis/Databases/Workflow.dtBase2/Files.noindex/md/0/Quick Look Commands - Help.md",
+		"/Users/keith.davis/Databases/Notes-TAP.dtBase2/Files.noindex/md/1/2014-j-tap-week-03.md",
+		"/Users/keith.davis/Desktop/MacJournal Export/Markdown Ones/Deposit BloomCity Money.txt",
+		"/Users/keith.davis/Desktop/MacJournal Export/Act 1 - Identity.txt",
+		"/Users/keith.davis/Library/Containers/com.coderforart.MWeb3/Data/Documents/themes/PreviewCSS/my-mweb-clearness-dark.css",
+		"/Users/keith.davis/Databases/Workflow.dtBase2/Files.noindex/md/3/Sublime Text 2.md",
+		"/Users/keith.davis/Dropbox (Personal)/Dropbox Downloads/grammarly_backup_codes.txt",
+		"/Users/keith.davis/Desktop/Tap-Scenes.fountain",
+		"/Users/keith.davis/Desktop/Quick Tour through NotePlan – NotePlan app – Medium.md",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/darkdown.css",
+		"/Users/keith.davis/Library/Application Support/TaskPaper/StyleSheets/amber-dark.less",
+		"/Users/keith.davis/Library/Application Support/TaskPaper/StyleSheets/workflowy-alt.less",
+		"/Users/keith.davis/Library/Application Support/TaskPaper/StyleSheets/workflowy-nvalt.less",
+		"/Users/keith.davis/Library/Application Support/TaskPaper/StyleSheets/workflowy.less",
+		"/Users/keith.davis/Library/Application Support/TaskPaper/StyleSheets/night.less",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/cheaters-master/cheaters/cheatsheets/taskpaper.md",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/cheaters-master/cheaters/cheatsheets/main-tools.md",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/cheaters-master/cheaters/cheat.html",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/cheaters-master/cheaters/cheatsheets/ulysses.md",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/cheaters-master/cheaters/cheat.sh",
+		"/Users/keith.davis/Library/Application Support/Alfred/Workflow Data/net.deanishe.alfred-appscripts/AppScript Directories.txt",
+		"/Users/keith.davis/Library/Application Support/PopClip/Extensions/NotePlan.popclipext/noteplan.rb",
+		"/Users/keith.davis/Dropbox (Personal)/5-Workflow/xAlfred Workflows to Try/alfred_noteplan_actions-master/README.md",
+		"/Users/keith.davis/Dropbox (Personal)/5-Workflow/xPopclip Extensions to Try/README.md",
+		"/Users/keith.davis/.mdqlstyle.css",
+		"/Users/keith.davis/Dropbox (Personal)/_Notes/Scratch.md",
+		"/Users/keith.davis/Library/Application Support/TaskPaper/StyleSheets/atom-dark.less",
+		"/Users/keith.davis/Library/Application Support/TaskPaper/StyleSheets/Default.less",
+		"/Applications/Highland 2.app/Contents/Library/QuickLook/HighlandQuickLook.qlgenerator/Contents/Info.plist"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"...",
+			"- ",
+			"...",
+			"_",
+			"* _",
+			"* ",
+			"_",
+			"|",
+			"xCMD",
+			"## ",
+			"⌘",
+			"(img)",
+			"# ",
+			"\n\n\n",
+			"- ",
+			" S",
+			"###",
+			"- ",
+			"    - ",
+			"bacblaze"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "Packages/User/Marked 2.sublime-build",
+	"project": "Cheaters.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"day",
+				"Day One - Search.txt"
+			],
+			[
+				"css",
+				"Academia.css"
+			],
+			[
+				"",
+				"Notes/Journal Tags.md"
+			],
+			[
+				"notion",
+				"Notion.md"
+			],
+			[
+				"defaul",
+				"CSS-Custom/MyCSSStyles/devonthink-default.css"
+			],
+			[
+				"devon",
+				"CSS-Custom/MyCSSStyles/devonthink-base.css"
+			],
+			[
+				"caret",
+				"CSS-Custom/MyCSSStyles/caret.css"
+			],
+			[
+				"amblin",
+				"CSS-Custom/MyCSSStyles/amblin.css"
+			],
+			[
+				"todo",
+				"Cheaters/cheatsheets/todoist-shortcuts.md"
+			],
+			[
+				"pop",
+				"Cheaters/cheatsheets/popclip-shortcuts.md"
+			],
+			[
+				"part",
+				"CSS-Custom/MyCSSStyles/pratt.css"
+			],
+			[
+				"stephe",
+				"CSS-Custom/MyCSSStyles/ldstephensdotnet.css"
+			],
+			[
+				"prat",
+				"CSS-Custom/MyCSSStyles/pratt.css"
+			],
+			[
+				"amb",
+				"CSS-Custom/MyCSSStyles/amblin.css"
+			],
+			[
+				"chea",
+				"cheaters/cheat.html"
+			],
+			[
+				"am",
+				"CSS-Custom/MyCSSStyles/amblin.css"
+			],
+			[
+				"swiss",
+				"CSS-Custom/MyCSSStyles/swiss.css"
+			],
+			[
+				"basetwi",
+				"CSS-Custom/MyCSSStyles/Base16 Twilight.css"
+			],
+			[
+				"basera",
+				"CSS-Custom/MyCSSStyles/Base16 Railscasts.css"
+			],
+			[
+				"basegr",
+				"CSS-Custom/MyCSSStyles/Base16 Grayscale.css"
+			],
+			[
+				"devonthink",
+				"CSS-Custom/MyCSSStyles/devonthink-base.css"
+			],
+			[
+				"cssdev",
+				"CSS-Custom/MyCSSStyles/devonthink-base.css"
+			],
+			[
+				"cheat.h",
+				"cheaters/cheat.html"
+			],
+			[
+				"cheaters.html",
+				"cheaters/cheatsheets/keybindings-shortcuts.html"
+			],
+			[
+				"to",
+				"cheaters/cheatsheets/todoist-shortcuts.md"
+			],
+			[
+				"todoist",
+				"cheaters/cheatsheets/todoist-shortcuts.md"
+			],
+			[
+				"task",
+				"CSS-Custom/MyCSSStyles/taskpaper-light.css"
+			],
+			[
+				"todoi",
+				"cheaters/cheatsheets/todoist-shortcuts.md"
+			],
+			[
+				"marked",
+				"cheatsheets/marked2.md"
+			],
+			[
+				"clear",
+				"CSS-Custom/MyCSSStyles/mweb-clearness.css"
+			],
+			[
+				"control",
+				"Notes/Controlling Idea or Theme.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sequence",
+				".KEITH/TOOS SEQUENCE 1"
+			]
+		],
+		"width": 600.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 327.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}

@@ -1,0 +1,991 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"n"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"synt mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"markdown theme",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"CASE",
+				"Convert Case: Title Case"
+			],
+			[
+				"synt fo",
+				"Set Syntax: Fountainhead"
+			],
+			[
+				"fount",
+				"Set Syntax: Fountainhead"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"markdo theme",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"head",
+				"Snippet: Markdown Header 3"
+			],
+			[
+				"gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"HTML2Text: Convert clipboard content"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"COLOR",
+				"Color Picker"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"h",
+				"HTML2Text: Convert selection"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"theme ",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"package",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"html syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"regexs",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"markdown table",
+				"DataConverter: to Markdown (Github-flavored)"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"them",
+				"UI: Select Color Scheme"
+			],
+			[
+				"settings m",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"omm",
+				"Toggle Comment"
+			],
+			[
+				"git",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"spaces",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"space",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"fomr",
+				"Format Date"
+			],
+			[
+				"time",
+				"InsertDate: Select Timezone"
+			],
+			[
+				"toc",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"sync",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"gf",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"locate",
+				"File: Locate"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"file",
+				"File: Locate"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pack",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"trim",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"smart",
+				"Trimmer: Replace smart characters."
+			],
+			[
+				"trail",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"tr",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"smar",
+				"Trimmer: Replace smart characters."
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"marked",
+				"Build With: Marked 2"
+			],
+			[
+				"readm",
+				"InsertDate: Open README"
+			],
+			[
+				"DATE",
+				"Format Date"
+			],
+			[
+				"read me",
+				"ReadmePlease"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"colorhigh",
+				"Color Highlight: Reset"
+			],
+			[
+				"sma",
+				"Trimmer: Replace smart characters."
+			],
+			[
+				"title",
+				"Snippet: Title Page"
+			],
+			[
+				"reg",
+				"RegReplace: Settings"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"notes",
+				"Fountainhead: Show/Hide Notes"
+			],
+			[
+				"remove",
+				"Trimmer: Remove comments."
+			],
+			[
+				"chara",
+				"Fountainhead: Show Character List"
+			],
+			[
+				"white",
+				"Trimmer: Trim leading AND trailing whitespace."
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"normal",
+				"Trimmer: Normalize spaces."
+			],
+			[
+				"replace smart",
+				"Trimmer: Replace smart characters."
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"unwr",
+				"String Utilities: Expand Selection to Whole String"
+			],
+			[
+				"high",
+				"Color Highlight: Disable Color Highlighting"
+			],
+			[
+				"color pic",
+				"Color Picker"
+			],
+			[
+				"tog",
+				"Word Wrap: Toggle"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"TITLE",
+				"Convert Case: Title Case"
+			],
+			[
+				"CHAR",
+				"Fountainhead: Show Character List"
+			],
+			[
+				"type",
+				"Typewriter: Scrolling Mode (Toggle)"
+			],
+			[
+				"fount ca",
+				"Fountainhead: Capitalize Current Line"
+			],
+			[
+				"founthead",
+				"Fountainhead: Convert to Uppercase"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"filedif",
+				"FileDiffs: Menu"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"markdo head",
+				"Snippet: Markdown Header 2"
+			],
+			[
+				"fold",
+				"MarkdownEditing: Toggle Folding Current Section"
+			],
+			[
+				"compare",
+				"Compare selections"
+			],
+			[
+				"tab",
+				"MarkdownTableFormatter: format table"
+			],
+			[
+				"synt gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"csv",
+				"DataConverter: to CSV"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"uly",
+				"Set Syntax: Ulysses Style Sheet"
+			],
+			[
+				"link",
+				"MarkdownEditing: New Inline Link"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"plan",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"setting",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"settings",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"markdow",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"markdwon theme",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"syn mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"image",
+				"MarkdownEditing: New Inline Image"
+			],
+			[
+				"markdown ima",
+				"MarkdownEditing: New Inline Image"
+			],
+			[
+				"SYNT MARK",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"scro",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"scrol",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"syn",
+				"Set Syntax: Markdown"
+			],
+			[
+				"color pi",
+				"Color Picker"
+			],
+			[
+				"synt csv",
+				"Set Syntax: Advanced CSV"
+			],
+			[
+				"sy mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syn ",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdownext",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"re",
+				"ReadmePlease"
+			],
+			[
+				"synmark",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/keith.davis/Documents/DevonThink/Career-TAP.dtBase2/Files.noindex/txt/4/The MADMEN scene.txt",
+		"/Users/keith.davis/Documents/DevonThink/Career-TAP.dtBase2/Files.noindex/txt/7/The sky and nature are God in this world.txt",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Career-TAP/00-Drafts/00-INDEXED-Drafts/-tap-0-080129.highland",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Career-TAP/00-Drafts/00-INDEXED-Drafts/-events.md",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Career-TAP/00-Drafts/00-INDEXED-Drafts/-tap-1-070325.fountain",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Career-TAP/00-Drafts/00-INDEXED-Drafts/tap-7-140510.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Career-TAP/00-Drafts/00-INDEXED-Drafts/tap-7-171229-final-draft.fountain",
+		"/private/var/folders/tv/n4cq52q13k73nkx0gx2fkpgh0000gn/T/com.ulyssesapp.mac/QuickExport/Sequence 1 - A HOME FOR STRANGERS.md",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Career-TAP/00-Drafts/00-INDEXED-Drafts/tap-7-160522.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Career-TAP/00-Drafts/00-INDEXED-Drafts/tap-7-160310-scrivener.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Career-TAP/00-Drafts/00-INDEXED-Drafts/tap-7-140715-current.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Career-TAP/00-Drafts/00-INDEXED-Drafts/tap-7-171103.fountain",
+		"/Users/keith.davis/Documents/DevonThink/Career-TAP.dtBase2/Files.noindex/txt/3/Log.txt",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Career-TAP/00-Drafts/00-INDEXED-zDeleted/Deleted-01-Abby & Bronz Bust.fountain",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/User/Fountainhead.sublime-settings",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/Fountainhead/Fountainhead.sublime-settings",
+		"/Users/keith.davis/Dropbox (Personal)/1Writer/Workflow-Notes.md",
+		"/Applications/MWeb.app/Contents/Resources/PreviewAsset/previewCSS/mweb-clearness.css",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/HTML2Text/README.md",
+		"/Applications/MWeb.app/Contents/Resources/PreviewAsset/previewCSS/mweb-clearness dark.css",
+		"/Users/keith.davis/Dropbox (Personal)/Dropbox Downloads/desk-scratch.md",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/dark.css",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/mweb-clearness.css",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/quiver.css",
+		"/Users/keith.davis/Library/Application Support/DEVONthink 3/Inbox.dtBase2/Files.noindex/md/5/Brett-Terpstra-Markdown-Test-Document.md",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/pesto.css",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/fountain.css",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/highlighter.css",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/bear.css",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/Custom Example.css",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/custom.css",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/gregarious.css",
+		"/Users/keith.davis/Dropbox (Personal)/Dropbox Downloads/Calibre-The Water Dancer/twd-workfile.html",
+		"/Users/keith.davis/Desktop/twd-workfile.html",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/Fountainhead/schemes/Tomorrow-Night-Eighties.tmTheme",
+		"/Users/keith.davis/Dropbox (Personal)/Notes/Day One - Search.txt",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/Academia.css",
+		"/Users/keith.davis/.mdqlstyle.css",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/2019-Style.css",
+		"/Users/keith.davis/Dropbox (Personal)/Notes/macjournal-shortcuts.md",
+		"/Users/keith.davis/Dropbox (Personal)/Notes/Ulysses - Keyboard Shortcuts.md",
+		"/Users/keith.davis/Dropbox (Personal)/Notes/notes-dump.md",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/User/Marked 2.sublime-build",
+		"/Users/keith.davis/Dropbox (Personal)/A-Desk/A-Desk-Tools/Mac - Quicklook Commands.md",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/Byword.css",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/CSS-Custom/devonthink-base.css",
+		"/Users/keith.davis/DevonThink/TAP.dtBase2/Files.noindex/md/d/1st Corinthians 1-25.md",
+		"/Users/keith.davis/DevonThink/TAP.dtBase2/Files.noindex/md/0/Flashpoints USA . America at War . In Focus . Post-9-11 Timeline - PBS.md",
+		"/Users/keith.davis/DevonThink/TAP.dtBase2/Files.noindex/md/f/Old Draft Notes.md",
+		"/Users/keith.davis/Library/Containers/com.ulyssesapp.mac/Data/Library/Application Support/Ulysses/Style Editing/1cc3018845114ff790a0ed6207b1c209/QuattrocentoSans-A4.ulss",
+		"/Users/keith.davis/Documents/GitHub/TAP/draft-7.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/Reporter-App/reporter-export.json",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/Reporter-App/2016-01-30-reporter-export.json",
+		"/Users/keith.davis/Dropbox (Personal)/Dropbox Downloads/iA Writer Themes/iA-Writer-Template-for-a-CV-master/example.md",
+		"/Users/keith.davis/Dropbox (Personal)/Notes/Devonthink - Search Operators.md",
+		"/Users/keith.davis/Dropbox (Personal)/Notes/Day One - Import from Momento.md",
+		"/Users/keith.davis/Dropbox (Personal)/Notes/Day One - To Momento Reference.md",
+		"/private/var/folders/tv/n4cq52q13k73nkx0gx2fkpgh0000gn/T/com.ulyssesapp.mac/QuickExport/Digest 2013.md",
+		"/Users/keith.davis/Desktop/read-books.csv",
+		"/Users/keith.davis/Desktop/letterboxd.csv",
+		"/Users/keith.davis/Library/Mobile Documents/com~apple~CloudDocs/2019-03-24 10.22.40.md",
+		"/Users/keith.davis/DevonThink/TAP.dtBase2/Files.noindex/md/0/General.md",
+		"/Users/keith.davis/DevonThink/TAP.dtBase2/Files.noindex/txt/4/tap-130309-script-notes-old-current-notes-archive.txt",
+		"/Users/keith.davis/DevonThink/TAP.dtBase2/Files.noindex/md/7/General-2.md",
+		"/Users/keith.davis/DevonThink/TAP.dtBase2/Files.noindex/md/e/Notes from Deleting Wordpress.md",
+		"/Users/keith.davis/DevonThink/TAP.dtBase2/Files.noindex/md/a/2014-11-23-01-51-00.md",
+		"/Users/keith.davis/DevonThink/TAP.dtBase2/Files.noindex/md/d/General-1.md",
+		"/Users/keith.davis/DevonThink/TAP.dtBase2/Files.noindex/md/a/General.md",
+		"/private/var/folders/tv/n4cq52q13k73nkx0gx2fkpgh0000gn/T/com.bloombuilt.dayone-mac/dayonedir.qT9mxu/Journal.txt",
+		"/private/var/folders/tv/n4cq52q13k73nkx0gx2fkpgh0000gn/T/com.bloombuilt.dayone-mac/dayonedir.n1zaGK/Journal.txt",
+		"/Users/keith.davis/Dropbox (Personal)/Notes/Day One - To Momento Reference",
+		"/Users/keith.davis/Desktop/2012.10.01 - Momento Export.txt",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/User/Date Formatter.sublime-settings",
+		"/Users/keith.davis/Desktop/2012.10.01 - Momento Export.md",
+		"/Users/keith.davis/Dropbox (Personal)/Notes/tap-final-draft-outline.md",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Desk-Workflow/Momento to Day One/2016-09-02-Momento-Export.txt",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Desk-Workflow/Momento to Day One/Momento-Assembler-Stitch-03-24-2019.txt",
+		"/Users/keith.davis/DevonThink/Stories.dtBase2/Files.noindex/md/3/Labor Day.md",
+		"/Users/keith.davis/Dropbox (Personal)/Notes/Journal Tags.md",
+		"/Users/keith.davis/Library/Application Support/Caret Beta/Themes/Dark.css",
+		"/Users/keith.davis/Library/Application Support/Caret Beta/Themes/MyDefault.css",
+		"/Users/keith.davis/DevonThink/1Current.dtBase2/Files.noindex/md/5/cp-tags.md",
+		"/Users/keith.davis/DevonThink/1Current.dtBase2/Files.noindex/md/a/tagging.md",
+		"/Users/keith.davis/DevonThink/1Current.dtBase2/Files.noindex/md/e/Areas, Categories and Tags.md",
+		"/Users/keith.davis/DevonThink/1Current.dtBase2/Files.noindex/md/a/This Life and world-Journal Categories and Tags.md",
+		"/Users/keith.davis/DevonThink/1Current.dtBase2/Files.noindex/md/d/workflow-1.md",
+		"/Users/keith.davis/DevonThink/1Current.dtBase2/Files.noindex/md/2/workflow.md",
+		"/Users/keith.davis/DevonThink/1Current.dtBase2/Files.noindex/md/f/Workflow.md",
+		"/Users/keith.davis/DevonThink/1Current.dtBase2/Files.noindex/md/7/workflow_3.md",
+		"/Users/keith.davis/DevonThink/1Current.dtBase2/Files.noindex/md/5/cp-tags-1.md",
+		"/Users/keith.davis/DevonThink/1Current.dtBase2/Files.noindex/md/1/Scene Meta.md",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Career-TAP/TAP Drafts/-tap-0-080429-outline.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Career-TAP/TAP Drafts/-tap-0-080429-2-outline.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Career-TAP/TAP Drafts/2008-0429-1718-american-people.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Areas/Career-TAP/TAP Drafts/tap-0-notes.fountain",
+		"/Users/keith.davis/DevonThink/Stories.dtBase2/Files.noindex/md/d/Characters.md",
+		"/Users/keith.davis/DevonThink/Stories.dtBase2/Files.noindex/md/4/Main Ideas.md",
+		"/Users/keith.davis/DevonThink/Stories.dtBase2/Files.noindex/md/2/Main Ideas-1.md",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts/TAP/TAP Drafts/tap-7-171103.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts/TAP/TAP Drafts/tap-7-171229.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts/TAP/TAP Drafts/tap-1-080501.fountain",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/Fountainhead/Title Page.sublime-snippet",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/Fountainhead/Symbols.tmPreferences",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/readme.md",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/Quiver/Quiver-Themes/Chocolate.json",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/Quiver/Quiver-Themes/VSCode Dark Plus.json",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/Quiver/Quiver-Themes/Jetbrains Darkula.json",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/User/Color Highlighter/themes/Ulysses3x Theme.json",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/User/Color Highlighter/themes/Tomorrow-Night-Eighties-WithMarkdown.tmTheme",
+		"/Users/keith.davis/Dropbox (Personal)/Apps/Quiver/quiver-settings/Quiver-settings.json",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts/TAP/TAP Drafts/tap-7-140510.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts/TAP/TAP Drafts/tap-6-131230.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts/TAP/TAP Drafts/tap-6-131218.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts/TAP/TAP Drafts/tap-5-work-version.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts/TAP/TAP Drafts/tap-5-outline-1.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts/TAP/TAP Drafts/tap-5-131119.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts/TAP/TAP Drafts/tap-7-160522.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts/TAP/TAP Drafts/tap-7-160310-scrivener.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts/TAP/TAP Drafts/-tap-7-151207.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts/TAP/TAP Drafts/tap-7-140715-current.fountain",
+		"/Users/keith.davis/Dropbox (Personal)/Scripts/TAP/TAP Drafts/tap-7-151207.fountain",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/DataConverter/README.md",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/TrailingSpaces/README.md",
+		"/Users/keith.davis/Library/Application Support/Sublime Text 3/Packages/StringUtilities/README.md"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"> ",
+			"- ",
+			"tabs",
+			"## ",
+			" ",
+			"A0A1A0",
+			"#D8D8D8",
+			"Open Sans",
+			"<hr>",
+			" ",
+			" ∙",
+			"  ∙",
+			"  ∙<",
+			"  ∙",
+			"\nlowed",
+			"\nterous ",
+			"terous ",
+			"\ntached",
+			" traits ",
+			"\nnard ",
+			"\nthaniel",
+			"\nferson",
+			"\ntionary",
+			"doorframe",
+			"\nlies",
+			"\nents",
+			"\nheritance",
+			"\ndow,",
+			"\nute",
+			"Caulleys",
+			"\nter ",
+			"\nscended",
+			"\ning ",
+			"\n",
+			"ing",
+			"latto",
+			"misspelling",
+			"<a id=\"p35\"></a>",
+			"<a id=\"p35\"></a> ",
+			"coat_9780399590597",
+			" ",
+			"@kindle.com",
+			"Edit",
+			"  Edit",
+			":"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Marked 2.sublime-build",
+	"project": "desk.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"day",
+				"Day One - Search.txt"
+			],
+			[
+				"css",
+				"Academia.css"
+			],
+			[
+				"",
+				"Notes/Journal Tags.md"
+			],
+			[
+				"notion",
+				"Notion.md"
+			],
+			[
+				"defaul",
+				"CSS-Custom/MyCSSStyles/devonthink-default.css"
+			],
+			[
+				"devon",
+				"CSS-Custom/MyCSSStyles/devonthink-base.css"
+			],
+			[
+				"caret",
+				"CSS-Custom/MyCSSStyles/caret.css"
+			],
+			[
+				"amblin",
+				"CSS-Custom/MyCSSStyles/amblin.css"
+			],
+			[
+				"todo",
+				"Cheaters/cheatsheets/todoist-shortcuts.md"
+			],
+			[
+				"pop",
+				"Cheaters/cheatsheets/popclip-shortcuts.md"
+			],
+			[
+				"part",
+				"CSS-Custom/MyCSSStyles/pratt.css"
+			],
+			[
+				"stephe",
+				"CSS-Custom/MyCSSStyles/ldstephensdotnet.css"
+			],
+			[
+				"prat",
+				"CSS-Custom/MyCSSStyles/pratt.css"
+			],
+			[
+				"amb",
+				"CSS-Custom/MyCSSStyles/amblin.css"
+			],
+			[
+				"chea",
+				"cheaters/cheat.html"
+			],
+			[
+				"am",
+				"CSS-Custom/MyCSSStyles/amblin.css"
+			],
+			[
+				"swiss",
+				"CSS-Custom/MyCSSStyles/swiss.css"
+			],
+			[
+				"basetwi",
+				"CSS-Custom/MyCSSStyles/Base16 Twilight.css"
+			],
+			[
+				"basera",
+				"CSS-Custom/MyCSSStyles/Base16 Railscasts.css"
+			],
+			[
+				"basegr",
+				"CSS-Custom/MyCSSStyles/Base16 Grayscale.css"
+			],
+			[
+				"devonthink",
+				"CSS-Custom/MyCSSStyles/devonthink-base.css"
+			],
+			[
+				"cssdev",
+				"CSS-Custom/MyCSSStyles/devonthink-base.css"
+			],
+			[
+				"cheat.h",
+				"cheaters/cheat.html"
+			],
+			[
+				"cheaters.html",
+				"cheaters/cheatsheets/keybindings-shortcuts.html"
+			],
+			[
+				"to",
+				"cheaters/cheatsheets/todoist-shortcuts.md"
+			],
+			[
+				"todoist",
+				"cheaters/cheatsheets/todoist-shortcuts.md"
+			],
+			[
+				"task",
+				"CSS-Custom/MyCSSStyles/taskpaper-light.css"
+			],
+			[
+				"todoi",
+				"cheaters/cheatsheets/todoist-shortcuts.md"
+			],
+			[
+				"marked",
+				"cheatsheets/marked2.md"
+			],
+			[
+				"clear",
+				"CSS-Custom/MyCSSStyles/mweb-clearness.css"
+			],
+			[
+				"control",
+				"Notes/Controlling Idea or Theme.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sequence",
+				".KEITH/TOOS SEQUENCE 1"
+			]
+		],
+		"width": 402.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 482.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}

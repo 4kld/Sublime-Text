@@ -1,0 +1,14 @@
+[
+  {
+    "caption": "Reg Replace: Replace smart quotes",
+    "command": "reg_replace",
+    "args": {
+      "replacements": [
+        "remove_left_double",
+        "remove_right_double",
+        "remove_left_single",
+        "remove_right_single"
+      ]
+    }
+  },
+]

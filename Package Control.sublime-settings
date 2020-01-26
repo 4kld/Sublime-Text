@@ -1,0 +1,53 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"Color Highlight",
+		"Color Highlighter",
+		"Color Scheme - Gray Matter",
+		"ColorPicker",
+		"CSS3",
+		"DataConverter",
+		"Date Formatter",
+		"FileDiffs",
+		"Filter Lines",
+		"Fountainhead",
+		"HTML2Text",
+		"InsertDate",
+		"LESS",
+		"Markdown Table Formatter",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Monokai Extended",
+		"Oceanic Next Italic Color Scheme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pandoc",
+		"PlainTasks",
+		"ReadmePlease",
+		"RegReplace",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"StringUtilities",
+		"Sync View Scroll",
+		"Table Editor",
+		"Theme - Solarized Space",
+		"Theme - Spaceblack",
+		"Theme - Spacegray",
+		"Themes Menu Switcher",
+		"Tomorrow Night Italics Color Scheme",
+		"TrailingSpaces",
+		"Trimmer",
+		"Twilight+",
+		"Typewriter",
+		"Ulysses Style Sheets"
+	],
+	"repositories":
+	[
+		"https://github.com/CriticMarkup/CriticMarkup-toolkit/tree/master/Sublime%20Text%203%20Package/Critic%20Markup"
+	]
+}

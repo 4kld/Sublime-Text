@@ -1,0 +1,24 @@
+{
+    // List of date format strings.
+    //
+    // Each entry can be either a string (the date format string) or a two-item
+    // array containing the format string and a label.
+    //
+    // This plugin uses PHP's date() and strtotime() functions for formatting
+    // and parseing dates. For information on creating date format string, see
+    // http://php.net/manual/en/function.date.php
+    "formats": [
+        ["F j, Y h:i:s A T",  "Day One"],
+        ["Y-m-d",       "SQL Date"],
+        ["Y-m-d H:i", "SQL Date Time"],
+        ["Y-m-d H:i:s",           "ISO 8601"],
+        ["r",           "RFC 2822"],
+         ["H:i:s",           "ISO 8601 Time"],
+         ["l j F Y",           "Momento"],
+        "m/d/Y"
+    ],
+
+    // Path to the PHP interpretter. If PHP in installed on your system and is
+    // on the path, you should not need to change this.
+    "php": "php"
+}

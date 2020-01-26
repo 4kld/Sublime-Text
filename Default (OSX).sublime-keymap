@@ -1,0 +1,6 @@
+[
+    { "keys": ["ctrl+s"], "command": "trimmer" },
+    { "keys": ["ctrl+shift+d"], "command": "file_diff_menu" },
+    { "keys": ["ctrl+0"], "command": "focus_side_bar" },
+]
+
